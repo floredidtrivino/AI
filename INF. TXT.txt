@@ -1,0 +1,15 @@
+Nombre del Proyecto: Our Space
+
+
+Integrantes: Flor Edid Triviño Motta
+
+
+Diseñar  una aplicación móvil única de localización y traslado para personas con discapacidad visual y baja vision, para 
+ayudarlas a que puedan tener una movilidad autónoma, segura y  con tranquilidad en la ciudad.
+
+El inevitable avance tecnológico, nos obliga a la planeación de nuevos retos y exigencias tanto en la investigación como en la  realización de nuevos proyectos esto hace que los procesos sean de mayor responsabilidad,
+por tanto que sean una solución a problemas formulados como la ayuda de acompañamiento y ubicación a personas con discapacidad visual o baja visión.
+La elaboración de la aplicación Our Space, va a  permitir   la obtención de nuevos conocimientos, habilidades y valores en el proceso investigativo del seminario que nos compete. 
+En cuanto al diseño de la aplicación se presentará la información de una manera detallada y distinta, de fácil manejo para el usuario, sus contenidos serán dinámicos con una característica fundamental como es la interactividad ya que mantiene una relación directa del individuo con la aplicación. 
+La aplicación orientará a personas con discapacidad visual o baja visión al auto aprendizaje, para el desarrollo de hábitos y habilidades en el uso y manejo para aprender a utilizarlas en sus traslados, por lo tanto el proyecto puede generar un soporte en la innovación de las estrategias del diseño.
+
